@@ -8,7 +8,7 @@ const methodDescription = 'HTTP method to use for the request. Supported methods
 
 export default new IntegrationDefinition({
   name: integrationName,
-  version: '0.0.3',
+  version: '1.0.0',
   readme: 'hub.md',
   icon: 'icon.svg',
   title: 'Simple HTTP request',
